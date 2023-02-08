@@ -295,6 +295,7 @@ height="40"
 </p>
 <p>
   <img
+    width="300"
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=medoussamabraiek&show_icons=true&locale=en&layout=compact"
     alt="medoussamabraiek"
@@ -302,6 +303,7 @@ height="40"
 </p>
 <p>
   <img
+    width="500"   
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=medoussamabraiek&"
     alt="medoussamabraiek"
