@@ -22,7 +22,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://fb.com/oussema.braiek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oussema.braiek" height="20" width="30" /></a>
+  <a href="https://fb.com/oussema.braiek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oussema.braiek" height="10" width="20" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
