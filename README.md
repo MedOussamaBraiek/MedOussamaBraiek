@@ -2,15 +2,14 @@
 <h3 align="center">
   A passionate Full Stack Web Engineer and Flutter Developer.
 </h3>
-<img align="right" alt="Coding" height="250" width="330" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-<div>
 - 🌱 I’m currently learning **Flutter** 
 - 👨‍💻 All of my projects are available at [https://med-oussama-braiek.vercel.app/](https://med-oussama-braiek.vercel.app/)
 - 💬 Ask me about **MERN, Flutter** 
 - 📫 How to reach me **oussemabraiek@gmail.com** 
 - ⚡ Fun fact **I Like Challenges**
-</div>
+
+<img align="right" alt="Coding" height="250" width="330" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
