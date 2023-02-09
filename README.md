@@ -5,8 +5,8 @@
 
 
 <img align="right" alt="Coding" height="250" width="330" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-<div></div>
 
+-
 - 🌱 I’m currently learning **Flutter** 
 - 👨‍💻 All of my projects are available at [https://med-oussama-braiek.vercel.app/](https://med-oussama-braiek.vercel.app/)
 - 💬 Ask me about **MERN, Flutter** 
@@ -296,7 +296,6 @@ height="40"
 <p>
   <img
     width="300"
-       height="200"
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=medoussamabraiek&show_icons=true&locale=en&layout=compact"
     alt="medoussamabraiek"
@@ -304,8 +303,7 @@ height="40"
 </p>
 <p>
   <img
-    width="500"  
-       height="200"
+    width="500"
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=medoussamabraiek&"
     alt="medoussamabraiek"
