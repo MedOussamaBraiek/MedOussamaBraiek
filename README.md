@@ -47,7 +47,7 @@
   </a>
   <a href="https://nextjs.org" target="_blank" rel="noreferrer">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Next.js_logo.svg"
+      src="https://www.cdnlogo.com/logos/n/80/next-js.svg"
       alt="nextjs"
       width="40"
       height="40"
