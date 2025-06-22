@@ -111,9 +111,7 @@
 <p align="left">
   <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=medoussamabraiek&show_icons=true&locale=en&layout=compact" alt="medoussamabraiek" />
 </p>
-<p align="center">
-  <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=medoussamabraiek&" alt="medoussamabraiek" />
-</p>
+
 
 ---
 
