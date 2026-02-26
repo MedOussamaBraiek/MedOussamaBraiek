@@ -107,10 +107,10 @@
 
 ---
 
-### 📊 GitHub Stats:
+<!-- ### 📊 GitHub Stats:
 <p align="left">
   <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=medoussamabraiek&show_icons=true&locale=en&layout=compact" alt="medoussamabraiek" />
-</p>
+</p> -->
 
 
 ---
