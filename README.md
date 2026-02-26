@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Oussama Braiek</h1>
 <h3 align="center">
-  A passionate Full Stack Web Engineer and Flutter Developer.
+  A passionate Full Stack AI Engineer and Flutter Developer.
 </h3>
 
 <img align="right" alt="Coding" height="250" width="330" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
