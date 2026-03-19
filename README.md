@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently practicing **Next.js** and learning **AI Engineering** to complete my full-stack journey.
 - 👨‍💻 All of my projects are available at [My Portfolio](https://mohamed-oussama-braiek.vercel.app)
-- 💬 Ask me about **MERN Stack**, **Flutter** and **AI**
+- 💬 Ask me about **WEB**, **MOBILE DEV** and **AI**
 - 📫 How to reach me: **oussemabraiek@gmail.com** 
 - ⚡ Fun fact **I Like Challenges**.
 
