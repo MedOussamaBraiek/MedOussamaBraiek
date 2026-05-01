@@ -1,126 +1,108 @@
 <h1 align="center">Hi 👋, I'm Mohamed Oussama Braiek</h1>
+
 <h3 align="center">
-  A passionate Full Stack AI Engineer and Flutter Developer.
+  Full Stack Engineer • AI Engineer • Flutter Developer
 </h3>
 
-<img align="right" alt="Coding" height="250" width="330" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+AI+Engineer;MERN+%7C+Flutter+%7C+Next.js;RAG+%7C+LangChain+%7C+LangGraph;Building+AI+Powered+Applications&center=true&width=520&height=45">
+</p>
 
-- 🌱 I’m currently practicing **Next.js** and learning **AI Engineering** to complete my full-stack journey.
-- 👨‍💻 All of my projects are available at [My Portfolio](https://mohamed-oussama-braiek.vercel.app)
-- 💬 Ask me about **WEB**, **MOBILE DEV** and **AI**
-- 📫 How to reach me: **oussemabraiek@gmail.com** 
-- ⚡ Fun fact **I Like Challenges**.
+<img align="right" alt="Coding" height="240" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ---
 
-### 💼 Connect with Me:
+### 🚀 About Me
+- 💼 Software Engineer with **3+ years of experience**
+- 💻 Specialized in **MERN Stack & scalable web applications**
+- 📱 Building cross-platform apps using **Flutter**
+- 🤖 Developing **AI-powered applications (RAG, LLMs, automation)**
+- 🎯 Focused on building **real-world SaaS products**
+- ⚡ Passionate about solving complex problems with clean architecture
+
+---
+
+### 🌐 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/mohamed-oussama-braiek-9955b5191" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-oussama-braiek-9955b5191" height="30" width="40" />
+  <a href="https://linkedin.com/in/mohamed-oussama-braiek-9955b5191" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="https://fb.com/oussema.braiek" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oussema.braiek" height="30" width="40" />
+  <a href="mailto:oussemabraiek@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools:
-<p align="left">
-  <!-- Languages -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-  </a>
-  
-  <!-- Frameworks & Libraries -->
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-  </a>
-  <a href="https://nextjs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.cdnlogo.com/logos/n/80/next-js.svg"
-      alt="nextjs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
-  </a>
-  <a href="https://flutter.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
-  </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://angular.io/assets/images/logos/angular/angular.svg"
-      alt="angular"
-      width="40"
-      height="40"
-    />
-  </a>
-   <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.cypress.io/favicon.ico"
-      alt="cypress"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <!-- Databases -->
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-  </a>
-  
-  <!-- Other Tools -->
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-  </a>
-  <a href="https://www.blender.org/" target="_blank">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" />
-  </a>
+### 🛠️ Tech Stack
+<p align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,react,nextjs,nodejs,express,fastapi,flutter,kotlin,angular,mongodb,mysql,postgres,docker,git,figma,blender" />
 </p>
 
 ---
 
-<!-- ### 📊 GitHub Stats:
-<p align="left">
-  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=medoussamabraiek&show_icons=true&locale=en&layout=compact" alt="medoussamabraiek" />
-</p> -->
-
-
----
-
-### 📈 My Journey:
-I am a **Software Engineer** with experience in full-stack development, primarily focused on **MERN** (MongoDB, Express, React, Node.js) and **Flutter** for mobile development. I am passionate about building scalable applications and continuously improving my skills. I aim to leverage my skills in **AI** and **Machine Learning** to create innovative solutions that solve real-world problems.
-
-Let's connect and collaborate on exciting projects!
+### 🤖 AI & Advanced Tools
+<p align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
+  <img src="https://img.shields.io/badge/RAG-%23000000.svg?style=for-the-badge&logo=OpenAI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangGraph-%23000000.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-%23000000.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI_Agents-%23000000.svg?style=for-the-badge"/>
+</p>
 
 ---
 
-🔗 **[Portfolio](https://mohamed-oussama-braiek.vercel.app)** | **[LinkedIn](https://linkedin.com/in/mohamed-oussama-braiek-9955b5191)** | **[Email](mailto:oussemabraiek@gmail.com)**
+### 📌 Featured Projects
 
+#### 🔹 Jocker – Custom Product Platform
+- Built a full **e-commerce customization system**
+- Users can design products (t-shirts, caps…) in real-time
+- Stack: **Next.js, MERN**
+- Includes admin dashboard & order management
+
+#### 🔹 SyFly – Password Manager
+- Secure credential storage system
+- Focus on **security & usability**
+- Designed as a scalable SaaS product
+
+#### 🔹 AI Job Automation Tool (WIP 🚧)
+- Generates **personalized cover letters**
+- Scrapes company data & finds emails
+- Uses **RAG + LLM pipelines**
+- Goal: fully automate job applications
+
+#### 🔹 Web Analytics Platform
+- Real-time analytics for websites & social media
+- Built with **MERN + Flutter**
+- Live dashboards & performance tracking
+
+#### 🔹 Hablar – Chat Application
+- Real-time messaging system
+- Image sharing & instant updates
+- Built using **Socket-based architecture**
+
+---
+
+### 📈 My Journey
+I’m a **Full Stack Engineer evolving into an AI Engineer**, focused on integrating **LLMs into real-world applications**.
+
+I enjoy:
+- Building scalable backend systems
+- Designing clean frontend experiences
+- Creating intelligent AI-driven products
+
+---
+
+### ⚡ Fun Fact
+I don’t just build projects — I build products with real users in mind.
+
+---
+
+<p align="center">
+  🚀 Open to remote opportunities (Europe • USA • Middle East)
+</p>
+
+---
+
+🔗 **Portfolio:** https://braiek-mohamed-oussama.vercel.app/  
+📩 **Email:** oussemabraiek@gmail.com
