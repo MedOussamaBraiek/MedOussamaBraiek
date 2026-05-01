@@ -53,33 +53,11 @@
 ---
 
 ### 📌 Featured Projects
-
-#### 🔹 Jocker – Custom Product Platform
-- Built a full **e-commerce customization system**
-- Users can design products (t-shirts, caps…) in real-time
-- Stack: **Next.js, MERN**
-- Includes admin dashboard & order management
-
-#### 🔹 SyFly – Password Manager
-- Secure credential storage system
-- Focus on **security & usability**
-- Designed as a scalable SaaS product
-
-#### 🔹 AI Job Automation Tool (WIP 🚧)
-- Generates **personalized cover letters**
-- Scrapes company data & finds emails
-- Uses **RAG + LLM pipelines**
-- Goal: fully automate job applications
-
-#### 🔹 Web Analytics Platform
-- Real-time analytics for websites & social media
-- Built with **MERN + Flutter**
-- Live dashboards & performance tracking
-
-#### 🔹 Hablar – Chat Application
-- Real-time messaging system
-- Image sharing & instant updates
-- Built using **Socket-based architecture**
+- 🔹 **FabrionLab** – Full-stack e-commerce platform for my 3D printing brand (Next.js, MongoDB, Zustand)
+- 🔹 **AI Portfolio** – AI-powered portfolio — answers questions about my work and skills in natural language. (Next.js, LangChain, RAG)
+- 🔹 **Jocker** – E-commerce store with product customization, cart management (Next.js, Prisma)
+- 🔹 **Web Analytics App** – Real-time dashboard (MERN + Flutter)
+- 🔹 **Hablar Chat** – Real-time messaging app
 
 ---
 
@@ -99,7 +77,7 @@ I don’t just build projects — I build products with real users in mind.
 ---
 
 <p align="center">
-  🚀 Open to remote opportunities (Europe • USA • Middle East)
+  🚀 Open to new opportunities (Europe • USA • Middle East)
 </p>
 
 ---
