@@ -13,6 +13,7 @@
 ---
 
 ### 🚀 About Me
+- 🔗 **Portfolio:** [My Portfolio](https://braiek-mohamed-oussama.vercel.app/)
 - 💼 Software Engineer with **3+ years of experience**
 - 💻 Specialized in **MERN Stack & scalable web applications**
 - 📱 Building cross-platform apps using **Flutter**
